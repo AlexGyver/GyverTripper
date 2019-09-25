@@ -2,7 +2,7 @@
 Сигнализация - сворачиватель окон на Digispark
 
 ## Схемы
-![SCHEME](https://github.com/AlexGyver/GyverTripper/blob/master/schemes/scheme1.jpg)
+![SCHEME](https://github.com/AlexGyver/GyverTripper/blob/master/scheme.jpg)
 
 ## Материалы и компоненты
 ### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
