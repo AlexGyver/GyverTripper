@@ -14,8 +14,8 @@
 #define ATTEMPTS 3      // количество попыток распознать
 #define DEADZONE 8000   // мёртвая зона
 #define CLOSE_TIMEOUT 10000 // таймаут срабатывания
-#define RADIO_PIN 0
-
+#define RADIO_PIN 0     // пин P0
+ 
 #include "DigiKeyboard.h"
 
 byte counter = 0;
