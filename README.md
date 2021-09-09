@@ -6,13 +6,13 @@
 
 ## Материалы и компоненты
 ### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
-* Digispark https://ali.ski/_hQBsm  https://ali.ski/IowM2
-* Радио https://ali.ski/CZZqQ https://ali.ski/KrT_iW
-* Генератор https://ali.ski/VyCPV  https://ali.ski/by098
-* PIR https://ali.ski/1169z  https://ali.ski/X1RbuZ
-* Транзисторы https://ali.ski/a89ia6
-* Резисторы 220R https://ali.ski/LefDUN
-* Отсек для батарейки https://ali.ski/uJSTbT  https://ali.ski/0_XUoH
+* Digispark https://ali.ski/COfdAw  https://ali.ski/rmCSq8
+* Радио https://ali.ski/Oi1_U https://ali.ski/2ON_q
+* Генератор https://ali.ski/EaydF  https://ali.ski/96uKd-
+* PIR https://ali.ski/tT8tU7  https://ali.ski/7IeUN
+* Транзисторы https://ali.ski/5-ZOXL
+* Резисторы 220R https://ali.ski/zraO_
+* Отсек для батарейки https://ali.ski/42wxQ  https://ali.ski/VKOiX
 
 ## Вам скорее всего пригодится
 * [Всё для пайки (паяльники и примочки)](http://alexgyver.ru/all-for-soldering/)
